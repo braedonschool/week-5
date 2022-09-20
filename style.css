@@ -9,6 +9,8 @@
     grid-template-columns: auto auto auto;
 }
 
+/* First Box */
+
 .box-1 {
     border: 3px;
     outline: 2px;
@@ -125,4 +127,11 @@
     padding-right: 5%;
     padding-left: 5%;
     text-align: center;
+}
+
+.bottom-header {
+    text-align: center;
+    font-family: Verdana;
+    padding-left: 8%;
+    padding-right: 8%;
 }
